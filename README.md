@@ -21,7 +21,7 @@ This is a Pet Listing website built with React.js. It allows users to search for
 
 1. Clone the repository:
 
-git clone <repository-url>
+git clone  https://github.com/Pranay01101/pet-listing-website.git
 cd pet-listing-website
 
 2. Install dependencies:
